@@ -1,7 +1,4 @@
-/**
- * GPS Tracking | خادم Node.js بسيط لعرض الملفات المحلية فقط.
- * لا توجد واجهات API أو قاعدة بيانات أو مصادقة خارجية في هذه النسخة الاستعراضية.
- */
+
 const express = require("express");
 const path = require("path");
 
