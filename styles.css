@@ -1,7 +1,3 @@
-/**
- * GPS Tracking | ثيم أبيض وأسود بسيط.
- * صفحة دخول تجريبية مختصرة، مع الحفاظ على لوحة خريطة Leaflet التشغيلية كما هي.
- */
 :root { --ink:#080808; --paper:#fff; --smoke:#f2f2f2; --line:#d8d8d8; --muted:#676767; }
 * { box-sizing:border-box; }
 html, body, #app { width:100%; min-width:320px; min-height:100%; margin:0; }
