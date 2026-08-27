@@ -1,7 +1,4 @@
-/**
- * GPS Tracking | JavaScript محلي بلا خدمات خلفية أو شعار.
- * تدار بيانات المركبات والسائقين والحركة في localStorage، بينما تعرض Leaflet خريطة OpenStreetMap الفعلية.
- */
+
 (function () {
   "use strict";
 
